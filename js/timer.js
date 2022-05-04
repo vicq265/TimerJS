@@ -1,3 +1,13 @@
+
+/*
+
+git remote add origin https://github.com/vicq265/TimerJS.git
+git branch -M main
+git push -u origin main
+
+
+*/
+
 let inputs, clock, alarm, hours, minutes, seconds, repeater;
 
 window.addEventListener('load', () => {
